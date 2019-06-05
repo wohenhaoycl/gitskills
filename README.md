@@ -8,6 +8,6 @@ or
 $git branc dev
 $git checkout dev 
 }
-  #show the branch
+  #show the branch.
 $git branch
 
